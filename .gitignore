@@ -1,0 +1,22 @@
+# Data (large / licensed - download separately, see README)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Kaggle credentials
+kaggle.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
